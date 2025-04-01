@@ -1,4 +1,4 @@
-variable "region" {default="us-east-1"}
+variable "region" {default="us-west-2"}
 variable "workshop_stack_base_name" {
     default = "ws-serverless-patterns"
 }
